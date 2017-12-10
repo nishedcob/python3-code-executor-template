@@ -1,6 +1,6 @@
 #! /bin/sh
 
-DEBUG=true
+DEBUG=false
 NULL="/dev/null"
 PRINT_NULL="> $NULL 2> $NULL"
 
